@@ -1,0 +1,10 @@
+body {
+ background-image: image(MyPhoto);
+ background-image: url("https://www.google.com/search?q=imagens+paisagens+naturais&rlz=1C1CHBD_pt-PTBR897BR897&sxsrf=ALeKk03kGDZbxnYZfNl0TWFGSPjpE2RdHg:1589361245797&tbm=isch&source=iu&ictx=1&fir=Biz_YGfxjt0RYM%253A%252Ce6EnfSZrqJbTIM%252C_&vet=1&usg=AI4_-kTuMyGKYgWEGiYpw-8a_r47YdwigA&sa=X&ved=2ahUKEwj2wOaDwLDpAhVLGrkGHYsoA-cQ9QEwAHoECAkQEQ#imgrc=Biz_YGfxjt0RYM:");
+ font-family: Verdana;
+}
+
+.menu{
+background-color: darkgoldenrod;
+
+}
